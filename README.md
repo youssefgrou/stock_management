@@ -51,8 +51,8 @@ OPTISTOCK is a powerful and user-friendly inventory management system designed t
 1. Clone the repository
 \`\`\`bash
 git clone https://github.com/youssefgrou/stock_management.git
-cd stock_management
 \`\`\`
+cd stock_management
 
 2. Install dependencies
 \`\`\`bash
