@@ -51,28 +51,27 @@ OPTISTOCK is a powerful and user-friendly inventory management system designed t
 1. Clone the repository
 \`\`\`bash
 git clone https://github.com/youssefgrou/stock_management.git
-cd stock_management
 \`\`\`
 
-2. Install dependencies
+3. Install dependencies
 \`\`\`bash
 composer install
 npm install
 \`\`\`
 
-3. Configure environment
+4. Configure environment
 \`\`\`bash
 cp .env.example .env
 php artisan key:generate
 \`\`\`
 
-4. Set up database
+5. Set up database
 \`\`\`bash
 php artisan migrate
 php artisan db:seed
 \`\`\`
 
-5. Start the application
+6. Start the application
 \`\`\`bash
 php artisan serve
 npm run dev
