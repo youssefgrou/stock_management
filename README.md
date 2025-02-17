@@ -1,7 +1,7 @@
 # OPTISTOCK - Smart Inventory Management System
 
 <p align="center">
-<img src="public/images/stock-logo.png" width="400" alt="OPTISTOCK Logo">
+<img src="public/images/stock-logo1.png" width="300" alt="OPTISTOCK Logo">
 </p>
 
 ## About OPTISTOCK
